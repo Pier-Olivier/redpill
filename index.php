@@ -97,5 +97,6 @@ for ($i=1; $i<=$nb2lignes; $i++){
 </div>
 
 </div>
+
 </body>
 </html>
